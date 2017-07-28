@@ -1,0 +1,34 @@
+{
+  "authors" : [
+    "Gabor Szabo"
+  ],
+  "build-depends" : [
+    "TAP::Harness"
+  ],
+  "depends" : [
+    "Bailador"
+  ],
+  "description" : "A chat and communication API based on Bailador",
+  "license" : "MIT",
+  "name" : "Bailador-Chat",
+  "perl" : "6.c",
+  "provides" : {
+    "Bailador::Chat" : "lib/Bailador/Chat.pm"
+  },
+  "resources" : [
+  ],
+  "source-url" : "git://github.com/Bailador/Bailador-Chat.git",
+  "support" : {
+    "bugtracker" : "https://github.com/Bailador/Bailador-Chat/issues",
+    "source" : "git://github.com/Bailador/Bailador-Chat.git"
+  },
+  "tags" : [
+    "Web",
+    "HTTP",
+    "Net",
+    "API",
+    "Chat"
+  ],
+  "test-depends" : [ ],
+  "version" : "0.0.1"
+}
