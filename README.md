@@ -1,3 +1,7 @@
+# Bailador::Chat
+
+[![Build Status](https://travis-ci.org/Bailador/Bailador-Chat.png)](https://travis-ci.org/Bailador/Bailador-Chat)
+
 Chat server based on Bailador with a command line client.
 
 The first version is just going to provide an API and a command-line client.
